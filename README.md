@@ -30,3 +30,12 @@ cd home
 git init
 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
 ```
+
+### Debug
+
+```bash
+hugo server -D --bind "0.0.0.0" -p 8080
+
+#Crostini Shortcut
+hugo server -D --bind "0.0.0.0" -b "http://penguin.termina.linux.test"
+```
