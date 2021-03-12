@@ -1,0 +1,14 @@
+baseURL: https://aztroop201.org/
+languageCode: en-us
+# footnoteReturnLinkContents: ↩
+# params:
+#   AuthorName: Sean Bridges
+#   GitHubUser: shizeon
+#   ListOfFoo:
+#   - foo1
+#   - foo2
+#   SidebarRecentLimit: 5
+#   Subtitle: Hugo is Absurdly Fast!
+# permalinks:
+#   posts: /:year/:month/:title/
+title: Boy Scouts Troop 201xx
