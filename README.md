@@ -26,9 +26,7 @@ hugo new site home
 Do this in each clone
 
 ```bash
-cd home
-git init
-git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+git submodule add https://github.com/budparr/gohugo-theme-ananke.git home/themes/ananke
 ```
 
 ### Debug
