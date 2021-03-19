@@ -37,3 +37,9 @@ hugo server -D --bind "0.0.0.0" -p 8080
 #Crostini Shortcut
 hugo server -D --bind "0.0.0.0" -b "http://penguin.termina.linux.test"
 ```
+
+### Publish outside of actions
+
+```bash
+git worktree add -B gh-pages public upstream/gh-pages
+```
