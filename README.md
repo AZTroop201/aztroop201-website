@@ -47,3 +47,21 @@ git worktree add -B gh-pages public upstream/gh-pages
 Automatic with git actions
 
 https://github.com/peaceiris/actions-gh-pages#options
+
+
+
+### Setup local dev env
+
+1. Install Hugo
+
+   ```bash
+   snap install hugo
+   ```
+
+2. Clone Repo
+3. Init submodules
+
+   ```bash
+   git submodule update --init --recursive
+   ```
+4. hugo -D
