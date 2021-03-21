@@ -1,4 +1,4 @@
-name: github pages
+name: Hugo gh-pages deployment
 
 on:
   push:
