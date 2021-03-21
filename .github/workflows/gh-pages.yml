@@ -30,3 +30,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./home/public
           force_orphan: true
+          commit_message: ${{ github.event.head_commit.message }}

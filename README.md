@@ -43,3 +43,7 @@ hugo server -D --bind "0.0.0.0" -b "http://penguin.termina.linux.test"
 ```bash
 git worktree add -B gh-pages public upstream/gh-pages
 ```
+
+Automatic with git actions
+
+https://github.com/peaceiris/actions-gh-pages#options
