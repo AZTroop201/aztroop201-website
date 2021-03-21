@@ -8,7 +8,9 @@ params:
   - foo1
   - foo2
   SidebarRecentLimit: 5
-  Subtitle: Hugo is Absurdly Fast!
+  Subtitle: Troop 201 Subtitle, where does this show
+  custom_css:
+  - css/custom.css
   # permalinks:
   #   posts: /:year/:month/:title/
 title: Boy Scouts Troop 201
@@ -17,5 +19,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-favicon:
+favicon: favicon/favicon.ico
 site_logo:
