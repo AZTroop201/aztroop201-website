@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Start Hugo Dev",
+        "type": "shell",
+        "command": "hugo serve -D",
+        "problemMatcher": [],
+        "options": {
+            "cwd": "${workspaceFolder}/home"
+        }
+      },
+      {
+        "label": "Start Hugo Dev Chromebook",
+        "type": "shell",
+        "command": "hugo server -D --bind '0.0.0.0' -b 'http://penguin.termina.linux.test'",
+        "problemMatcher": [],
+        "options": {
+            "cwd": "${workspaceFolder}/home"
+        }
+      }
+    ]
+  }
