@@ -29,15 +29,6 @@ Do this in each clone
 git submodule add https://github.com/budparr/gohugo-theme-ananke.git home/themes/ananke
 ```
 
-### Debug
-
-```bash
-hugo server -D --bind "0.0.0.0" -p 8080
-
-#Crostini Shortcut
-hugo server -D --bind "0.0.0.0" -b "http://penguin.termina.linux.test"
-```
-
 ### Publish outside of actions
 
 ```bash
@@ -64,4 +55,12 @@ https://github.com/peaceiris/actions-gh-pages#options
    ```bash
    git submodule update --init --recursive
    ```
-4. hugo -D
+4. hugo server
+
+   ```bash
+   # Local binding
+   hugo server -D --bind "0.0.0.0" -p 8080
+
+   #Chromebook/Crostini Shortcut when localhost doesn't work
+   hugo server -D --bind "0.0.0.0" -b "http://penguin.termina.linux.test"
+   ```

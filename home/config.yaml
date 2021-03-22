@@ -1,6 +1,15 @@
 baseURL: https://aztroop201.github.io/aztroop201-website/
 languageCode: en-us
 footnoteReturnLinkContents: ↩
+theme: ananke
+title: Boy Scouts Troop 201
+copyright: Troop 201 -
+menus:
+  main:
+  - name: Store
+    url: https://aztroop201.square.site/
+  - name: Contact
+    url: mailto:info@aztroop201.org
 params:
   AuthorName: Sean Bridges
   GitHubUser: shizeon
@@ -14,9 +23,6 @@ params:
   favicon: favicon/favicon.ico
   # permalinks:
   #   posts: /:year/:month/:title/
-title: Boy Scouts Troop 201
-copyright: Troop 201 -
-theme: ananke
 markup:
   goldmark:
     renderer:
