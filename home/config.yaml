@@ -21,10 +21,10 @@ params:
   custom_css:
   - css/custom.css
   favicon: favicon/favicon.ico
+  site_logo: images/logo.png
   # permalinks:
   #   posts: /:year/:month/:title/
 markup:
   goldmark:
     renderer:
       unsafe: true
-site_logo:
