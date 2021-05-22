@@ -3,4 +3,6 @@
 
 cd home
 rm -rf public
-hugo --minify
+
+#HUGO_ENV sets up anake theme to allow indexing
+HUGO_ENV=production hugo --minify
