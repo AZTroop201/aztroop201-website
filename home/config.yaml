@@ -5,26 +5,37 @@ footnoteReturnLinkContents: ↩
 theme: ananke
 title: Boy Scouts Troop 201
 copyright: Troop 201 -
+
+SectionPagesMenu: main
+
 menus:
   main:
   - name: Store
     url: https://aztroop201.square.site/
   - name: Contact
     url: mailto:info@aztroop201.org
+
 params:
   AuthorName: Sean Bridges
   GitHubUser: shizeon
-  ListOfFoo:
-  - foo1
-  - foo2
+  mainSections:
+  - post
+  - volunteers
+  # ListOfFoo:
+  # - foo1
+  # - foo2
   SidebarRecentLimit: 5
   Subtitle: Troop 201 Subtitle, where does this show
   custom_css:
   - css/custom.css
   favicon: favicon/favicon.ico
-  site_logo: images/logo.png
-  # permalinks:
-  #   posts: /:year/:month/:title/
+  site_logo: /images/logo.png
+  recent_posts_number: 0
+  facebook:
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
 markup:
   goldmark:
     renderer:
