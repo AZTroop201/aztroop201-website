@@ -6,5 +6,5 @@ description: |
 weight: 4
 draft: false
 volunteer: Sean Bridges
-profile_img: treasurer.jpg
+profile_img: bridges.jpg
 ---
