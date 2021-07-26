@@ -1,12 +1,28 @@
-<div class="relative w-100 mb4 bg-white nested-copy-line-height">
-  <div class="bg-white mb3 pa4 gray overflow-hidden">
-    <h1 class="f3 near-black">
-      <a href="{{ .Permalink }}" class="link black dim">
-        {{ .Title }}
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      {{ .Summary  }}
+<div class="relative w-100 mb4 nested-copy-line-height brown">
+  <div class="bg-white mb3 pa2 brown overflow-hidden b--dashed br4" style="">
+    <a href="{{ .Permalink }}" class="link black dim">
+      {{ if .Params.profile_img }}
+      <img src="profile_img/{{ .Params.profile_img }}" class="br-100 pa1 ba b--black-10 fl w-40" style="width:100px" alt="avatar">
+      {{ else }}
+      <img src="/images/fleurdelis300x300.jpg" class="br-100 pa1 ba b--black-10 fl w-40" style="width:100px" alt="avatar">
+      {{ end }}
+    </a>
+    <div class="fl pa2 w-60">
+      <h1 class="f3 near-black bb">
+        <a href="{{ .Permalink }}" class="link black dim">
+          {{ .Title }}
+        </a>
+      </h1>
+      <h2 class="f5 near-black "></h2class>
+        {{ if .Params.Volunteer }}
+          {{ .Params.Volunteer }}
+        {{ else }}
+          Vacant
+        {{ end }}
+      </h2>
+      <div class="nested-links f5 lh-copy nested-copy-line-height">
+        {{ .Summary  }}
+      </div>
     </div>
   </div>
 </div>

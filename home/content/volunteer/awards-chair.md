@@ -1,10 +1,10 @@
 ---
-title: Treasurer
+title: Awards Chair
 category: committee
 description: |
     Adult leadership
 weight: 4
 draft: false
-volunteer: Sean Bridges
-profile_img: treasurer.jpg
+volunteer: Jennifer Bump
+profile_img: awards-chair.jpg
 ---

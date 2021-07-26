@@ -1,6 +1,6 @@
 ---
-title: Charter Representative
-category: key-three
+title: Assistant Scoutmaster
+category: troop
 description: |
     Charter rep description
 weight: 3

@@ -1,13 +1,9 @@
 ---
-title: "Secretary"
-category: key-three
+title: Secretary
+category: committee
 description: |
     Adult leadership
-weight: 4
-draft: true
+weight: 5
+draft: false
+volunteer: Anthony Wehry
 ---
-
-## Description
-
-## Responsibilities
-
