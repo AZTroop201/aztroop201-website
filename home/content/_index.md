@@ -5,7 +5,6 @@ featured_image: '/images/mainbackground.jpg'
 description: |
     Scottsdale Arizona Boy Scouts Troop 201. Thank you for visiting the Troop 201 website. Troop 201 is part of the Grand Canyon Council in the Camelback District. We are a youth-led troop that meets Tuesdays from 7pm – 8:30pm at Scottsdale United Methodist Church. 
     You can visit us at any meeting if you are interested, as well as contact our Committee members at info@aztroop201.org
-    Note: Due to COVID-19 restrictions, meetings are at an alternative location. Please contact our committee if interested in attending.
 ---
 
 ## Current Scouts
