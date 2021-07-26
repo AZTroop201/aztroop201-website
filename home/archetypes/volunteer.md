@@ -1,10 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-category: key-three
+category: 
+  - key-three
 description: |
     Adult leadership
 weight: 100
 draft: true
+volunteer: 
+profile_img: 
 ---
 
 ## Description
