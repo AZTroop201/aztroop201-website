@@ -6,5 +6,5 @@ description: |
 weight: 4
 draft: false
 volunteer: Jennifer Bump
-profile_img: awards-chair.jpg
+profile_img: bump.jpg
 ---

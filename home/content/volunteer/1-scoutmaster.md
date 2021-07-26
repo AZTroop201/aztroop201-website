@@ -8,5 +8,5 @@ description: |
 draft: false
 weight: 1
 volunteer: Bob Humphrey
-profile_img: scoutmaster.jpg
+profile_img: humphrey.jpg
 ---
