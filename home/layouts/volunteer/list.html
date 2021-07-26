@@ -4,7 +4,7 @@
       {{- .Content -}}
     </section>
     <section class="flex-ns flex-wrap justify-around mt0">
-      {{ range .Paginator.Pages }}
+      {{ range (.Paginator 100).Pages }}
         <div class="relative w-100 w-30-l mb4">
           {{- partial "volunteer-summary.html" . -}}
         </div>

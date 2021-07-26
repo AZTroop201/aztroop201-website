@@ -1,13 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Grocery Coordinator"
 category: 
-  - key-three
-  - committee
   - fundraiser
 description: |
     Adult leadership
-weight: 100
-draft: true
+weight: 10
+draft: false
 volunteer: 
 profile_img: 
 ---

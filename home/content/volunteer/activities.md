@@ -1,14 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Activity Chair"
 category: 
-  - key-three
   - committee
-  - fundraiser
 description: |
     Adult leadership
 weight: 100
-draft: true
-volunteer: 
+draft: false
+volunteer: Keri Cavanaugh
 profile_img: 
 ---
 

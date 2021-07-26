@@ -1,13 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Kitchen Coordinator"
 category: 
-  - key-three
   - committee
-  - fundraiser
 description: |
-    Adult leadership
+  Prepare Court of Honor kitchen events.
 weight: 100
-draft: true
+draft: false
 volunteer: 
 profile_img: 
 ---

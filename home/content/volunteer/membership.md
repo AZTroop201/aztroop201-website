@@ -1,13 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: Membership Chair
 category: 
-  - key-three
   - committee
-  - fundraiser
 description: |
     Adult leadership
 weight: 100
-draft: true
+draft: false
 volunteer: 
 profile_img: 
 ---
