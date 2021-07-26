@@ -19,15 +19,15 @@ params:
   AuthorName: Sean Bridges
   GitHubUser: shizeon
   mainSections:
-  - post
-  - volunteers
+    - post
+    - volunteers
   # ListOfFoo:
   # - foo1
   # - foo2
   SidebarRecentLimit: 5
   Subtitle: Troop 201 Subtitle, where does this show
   custom_css:
-  - css/custom.css
+    - /css/custom.css
   favicon: favicon/favicon.ico
   site_logo: /images/logo.png
   recent_posts_number: 0
