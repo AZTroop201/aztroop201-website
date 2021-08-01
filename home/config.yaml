@@ -33,10 +33,12 @@ params:
   site_logo: /images/logo.png
   recent_posts_number: 0
   facebook:
+
 sitemap:
   changefreq: monthly
   priority: 0.5
   filename: sitemap.xml
+
 markup:
   goldmark:
     renderer:
