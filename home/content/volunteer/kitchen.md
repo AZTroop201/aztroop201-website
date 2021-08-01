@@ -10,7 +10,5 @@ chair: Courtney Clark
 profile_img: 
 ---
 
-## Description
 
-## Responsibilities
 

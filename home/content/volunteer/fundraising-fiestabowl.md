@@ -9,8 +9,3 @@ draft: false
 chair: Josh Friedman
 profile_img: 
 ---
-
-## Description
-
-## Responsibilities
-

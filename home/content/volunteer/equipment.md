@@ -10,7 +10,5 @@ volunteer:
 profile_img: 
 ---
 
-## Description
 
-## Responsibilities
 

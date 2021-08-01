@@ -10,7 +10,5 @@ chair:
 profile_img: 
 ---
 
-## Description
 
-## Responsibilities
 

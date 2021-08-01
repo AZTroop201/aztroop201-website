@@ -10,7 +10,5 @@ volunteer: Keri Cavanaugh
 profile_img: 
 ---
 
-## Description
 
-## Responsibilities
 

@@ -11,7 +11,3 @@ chairs:
 profile_img: 
 ---
 
-## Description
-
-## Responsibilities
-
