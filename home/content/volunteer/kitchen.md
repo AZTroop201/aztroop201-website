@@ -6,7 +6,7 @@ description: |
   Prepare Court of Honor kitchen events.
 weight: 100
 draft: false
-volunteer: 
+chair: Courtney Clark
 profile_img: 
 ---
 

@@ -6,7 +6,7 @@ description: |
     Coordinate and run our yearly Fiesta Bowl Fundraiser
 weight: 10
 draft: false
-volunteer: Josh Friedman
+chair: Josh Friedman
 profile_img: 
 ---
 

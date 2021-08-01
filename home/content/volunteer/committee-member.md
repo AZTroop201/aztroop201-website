@@ -5,7 +5,7 @@ description: |
     Adult leadership
 weight: 20
 draft: false
-volunteer:
+chairs:
   - Diana Kaminski
   - Sean Bridges
   - Jim Roper

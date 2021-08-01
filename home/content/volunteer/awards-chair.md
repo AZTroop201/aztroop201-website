@@ -5,6 +5,7 @@ description: |
     Adult leadership
 weight: 4
 draft: false
-volunteer: Jennifer Bump
+chair: Jennifer Bump
+chairs:
 profile_img: bump.jpg
 ---

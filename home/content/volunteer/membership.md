@@ -6,7 +6,7 @@ description: |
     Adult leadership
 weight: 100
 draft: false
-volunteer: 
+chair: 
 profile_img: 
 ---
 

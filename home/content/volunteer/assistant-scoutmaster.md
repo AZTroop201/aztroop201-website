@@ -4,5 +4,9 @@ category: troop
 description: |
     Charter rep description
 weight: 4
-volunteer: Josh Friedman
+chair:
+chairs: 
+  - Josh Friedman
+  - Bruce Weber
+  - Tom George
 ---

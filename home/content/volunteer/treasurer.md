@@ -5,6 +5,6 @@ description: |
     Adult leadership
 weight: 4
 draft: false
-volunteer: Sean Bridges
+chair: Sean Bridges
 profile_img: bridges.jpg
 ---
