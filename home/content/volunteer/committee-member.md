@@ -3,7 +3,7 @@ title: Committee Members
 category: committee
 description: |
     Adult leadership
-weight: 20
+weight: 8
 draft: false
 chairs:
   - Diana Kaminski

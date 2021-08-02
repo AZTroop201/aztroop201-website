@@ -4,7 +4,7 @@ category:
   - fundraiser
 description: |
     Adult leadership
-weight: 10
+weight: 100
 draft: false
 chair: 
 chairs:
