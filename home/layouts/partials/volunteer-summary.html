@@ -1,5 +1,5 @@
-<div class="relative w-100 mb4 nested-copy-line-height brown" style="width:350px">
-  <div class="bg-white mb3 pa2 brown overflow-hidden b--dashed br4 h-auto h5-l" >
+<div class="relative w-100 mb4 nested-copy-line-height brown" style="min-width:350px; max-width: 450px">
+  <div class="bg-white mb3 pa2 brown overflow-hidden b--dashed br4 h-auto" style="min-height: 200px;">
     <a href="{{ .Permalink }}" class="link black dim">
       {{ if .Params.profile_img }}
       <img src="profile_img/{{ .Params.profile_img }}" class="br-100 pa1 ba b--black-10 fl w-40" style="width:100px" alt="avatar">
@@ -13,21 +13,30 @@
           {{ .Title }}
         </a>
       </h1>
-      <h2 class="f5 near-black ">
-        {{ if .Params.chair }}{{ .Params.chair }}{{ end }}
+        {{ if .Params.chair }}
+        <h2 class="f5 near-black ">
+
+          {{- .Params.chair -}}
+        </h2>
+        {{ end }}
 
         {{ if .Params.chairs }}
-        <ul class="pl3">
-          {{ range .Params.chairs }}
-            <li class="">{{ . }}</li>
-          {{ end }}
-        </ul>
+          <h3 class="f6 near-black" >
+            {{ if .Params.chair }}
+            Additional chairs:
+            {{ end }}
+          </h3>
+          <ul class="pl3">
+            {{ range .Params.chairs }}
+              <li class="">{{ . }}</li>
+            {{ end }}
+          </ul>
         {{ end }}
 
         {{ if and ( not ( isset .Params.chairs 0 ) ) ( eq .Params.chair nil ) }}
         <h3>Position Vacant</h3>
         {{ end }}
-      </h2>
+
       <!--
         empty chair: {{ eq .Params.chair nil }} <br>
         empty chairs  {{ not ( isset .Params.chairs 0 )  }} <br>
