@@ -7,5 +7,5 @@ description: |
 weight: 10
 draft: false
 chair: Leslie O'Shea
-profile_img:
+profile_img: oshea.jpg
 ---
