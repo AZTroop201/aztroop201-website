@@ -9,4 +9,9 @@ chairs:
   - Diana Kaminski
   - Sean Bridges
   - Jim Roper
+  - Ted Kennedy
+  - Patricia George
+  - David Schafranka
+  - Mike Dillabough
+  - Terry Allison
 ---

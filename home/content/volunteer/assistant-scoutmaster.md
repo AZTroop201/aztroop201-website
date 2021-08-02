@@ -4,9 +4,10 @@ category: troop
 description: |
     Charter rep description
 weight: 4
-chair:
+chair: Josh Friedman
 chairs: 
-  - Josh Friedman
   - Bruce Weber
   - Tom George
+  - Collin Kerr
+  - Dean Bauer
 ---
