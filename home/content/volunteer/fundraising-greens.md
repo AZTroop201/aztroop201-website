@@ -1,6 +1,7 @@
 ---
 title: Holiday Greens
-category: 
+toc: true
+tags:
   - fundraising
 description: |
     Responsible for coordinating and executing our Holiday Greens fundraiser

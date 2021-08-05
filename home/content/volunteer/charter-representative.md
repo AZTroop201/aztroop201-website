@@ -1,6 +1,8 @@
 ---
 title: Charter Representative
-category: key-three
+toc: true
+tags:
+  - key-three
 description: |
     Charter rep description
 weight: 3

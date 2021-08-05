@@ -1,0 +1,22 @@
+{{ if .Params.chair }}
+<h2 class="f5 near-black ">
+
+  {{- .Params.chair -}}
+</h2>
+{{ end }}
+{{ if .Params.chairs }}
+  <h3 class="f6 near-black" >
+    {{ if .Params.chair }}
+    Additional chairs:
+    {{ end }}
+  </h3>
+  <ul class="pl3">
+    {{ range .Params.chairs }}
+      <li class="">{{ . }}</li>
+    {{ end }}
+  </ul>
+{{ end }}
+
+{{ if and ( not ( isset .Params.chairs 0 ) ) ( eq .Params.chair nil ) }}
+<h3>Position Vacant</h3>
+{{ end }}

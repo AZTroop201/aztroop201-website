@@ -1,9 +1,11 @@
 ---
 title: Committee Members
-category: committee
+toc: true
+tags:
+  - committee
 description: |
     Adult leadership
-weight: 8
+weight: 3
 draft: false
 chairs:
   - Diana Kaminski
