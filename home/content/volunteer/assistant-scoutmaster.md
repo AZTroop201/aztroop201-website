@@ -1,13 +1,22 @@
 ---
 title: Assistant Scoutmaster
-category: troop
+toc: true
+tags:
+  - troop
 description: |
     Charter rep description
 weight: 4
 chair: Josh Friedman
-chairs: 
+chairs:
   - Bruce Weber
   - Tom George
   - Collin Kerr
   - Dean Bauer
 ---
+
+## Position Description
+
+An assistant Scoutmaster is an adult leader over the age of 18 who helps the Scoutmaster deliver the promise of Scouting. Each assistant Scoutmaster is assigned specific program duties. They can serve the troop by guiding a particular patrol to which they’ve been assigned, advising certain Scouts who’ve assumed a position e.g. the quartermaster or OA representative, or fill in as necessary to assure the junior leaders have what they need to run things.
+
+## Duties
+

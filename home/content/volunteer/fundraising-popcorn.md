@@ -1,6 +1,7 @@
 ---
 title: Popcorn Fundraising
-category: 
+toc: true
+tags:
   - fundraising
 description: |
     Responsible for coordinating and executing our Popcorn fundraising events

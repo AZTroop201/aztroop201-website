@@ -1,6 +1,7 @@
 ---
 title: Newsletter Editor
-category: 
+toc: true
+tags: 
   - committee
 description: |
     Responsible for creation of our quarterly newsletter
