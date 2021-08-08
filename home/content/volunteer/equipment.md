@@ -1,6 +1,5 @@
 ---
 title: "Equipment Coordinator"
-toc: true
 tags:
   - committee
 description: |

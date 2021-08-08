@@ -1,6 +1,5 @@
 ---
 title: Assistant Scoutmaster
-toc: true
 tags:
   - troop
 description: |

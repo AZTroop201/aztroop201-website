@@ -1,6 +1,5 @@
 ---
 title: New Scout Parent Unit Coordinator
-toc: true
 tags:
   - committee
 description: |

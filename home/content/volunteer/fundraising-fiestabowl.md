@@ -1,6 +1,5 @@
 ---
 title: "Fiesta Bowl"
-toc: true
 tags:
   - fundraiser
 description: |

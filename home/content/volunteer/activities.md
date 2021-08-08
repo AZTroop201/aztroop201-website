@@ -1,6 +1,5 @@
 ---
 title: "Activity Chair"
-toc: true
 tags:
   - committee
 description: |

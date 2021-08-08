@@ -1,6 +1,5 @@
 ---
 title: Secretary
-toc: true
 tags:
   - committee
 description: |

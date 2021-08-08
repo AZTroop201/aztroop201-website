@@ -1,6 +1,5 @@
 ---
 title: Holiday Greens
-toc: true
 tags:
   - fundraising
 description: |

@@ -1,6 +1,5 @@
 ---
 title: "Kitchen Coordinator"
-toc: true
 tags:
   - committee
 description: |

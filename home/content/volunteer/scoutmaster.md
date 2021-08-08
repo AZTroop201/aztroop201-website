@@ -9,7 +9,6 @@ draft: false
 weight: 1
 chair: Bob Humphrey
 profile_img: humphrey.jpg
-toc: true
 ---
 
 ## Position Description

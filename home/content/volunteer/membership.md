@@ -1,6 +1,5 @@
 ---
 title: Membership Coordinators
-toc: true
 tags:
   - committee
 description: |

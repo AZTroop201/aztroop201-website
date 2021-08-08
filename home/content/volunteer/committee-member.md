@@ -1,6 +1,5 @@
 ---
 title: Committee Members
-toc: true
 tags:
   - committee
 description: |

@@ -1,6 +1,5 @@
 ---
 title: Charter Representative
-toc: true
 tags:
   - key-three
 description: |

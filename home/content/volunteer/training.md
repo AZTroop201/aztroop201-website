@@ -1,6 +1,5 @@
 ---
 title: Training Coordinator
-toc: true
 tags:
   - committee
 description: |

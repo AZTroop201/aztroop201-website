@@ -1,6 +1,5 @@
 ---
 title: Committee Chair
-toc: true
 tags:
   - key-three
 description: |

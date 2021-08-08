@@ -1,6 +1,5 @@
 ---
 title: Treasurer
-toc: true
 tags:
   - committee
 description: |

@@ -1,6 +1,5 @@
 ---
 title: Popcorn Fundraising
-toc: true
 tags:
   - fundraising
 description: |
