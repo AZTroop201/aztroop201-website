@@ -7,6 +7,7 @@ description: |
     Adult leadership
 weight: 3
 draft: false
+chair:
 chairs:
   - Diana Kaminski
   - Sean Bridges

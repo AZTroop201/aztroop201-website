@@ -7,6 +7,7 @@ description: |
     Adult leadership
 weight: 2
 chair: Patricia George
+chairs:
 profile_img: george.jpg
 ---
 
