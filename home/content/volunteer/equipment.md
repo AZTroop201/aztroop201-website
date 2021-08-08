@@ -20,6 +20,6 @@ of all troop equipment.
 - Make periodic safety checks on all troop camping gear, and encourage troops in
 the safe use of all outdoor equipment.
 - Report to the troop committee at each meeting.
-
+- Handle troop donations and uniform recycling.
 
 
