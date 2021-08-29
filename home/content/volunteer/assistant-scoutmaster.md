@@ -11,6 +11,7 @@ chairs:
   - Tom George
   - Collin Kerr
   - Dean Bauer
+profile_img: friedman.jpg
 ---
 
 ## Position Description
