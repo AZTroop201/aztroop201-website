@@ -17,3 +17,7 @@ chairs:
   - Mike Dillabough
   - Terry Allison
 ---
+
+<!--
+TODO: Add Duties
+-->
