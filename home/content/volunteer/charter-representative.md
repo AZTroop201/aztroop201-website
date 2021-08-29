@@ -5,10 +5,8 @@ tags:
 description: |
     Charter rep description
 weight: 3
-chair:
+chair: Terry Allison
 chairs:
-  - Terry Allison
-  - Michael Dillabough
 ---
 
 ## Description
