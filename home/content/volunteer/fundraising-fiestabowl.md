@@ -7,5 +7,9 @@ description: |
 weight: 10
 draft: false
 chair: Josh Friedman
-profile_img:
+profile_img: friedman.jpg
 ---
+
+<!--
+TODO: Add Duties
+-->
