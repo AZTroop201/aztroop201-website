@@ -1,11 +1,32 @@
 {
     "version": "0.1",
     "words": [
+        "ananke",
+        "Bashas",
+        "campouts",
+        "Cavanaugh",
+        "Cubmaster",
         "dillabough",
         "highres",
         "kaminski",
+        "NYLT",
         "roundtables",
         "schafranka",
+        "Scoutbook",
+        "Webelos",
         "Wehry"
+    ],
+    "enabled": true,
+    "ignoreWords": [
+        "Crostini",
+        "SECTIONNAME",
+        "THEMENAME",
+        "allowfullscreen",
+        "aztroop201",
+        "drawio",
+        "mainbackground",
+        "oshea",
+        "wordart",
+        "worktree"
     ]
 }

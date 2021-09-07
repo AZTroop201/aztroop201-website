@@ -8,6 +8,6 @@ menu: main
 weight: 100
 ---
 
-# 2021 Youth Leadership
+## 2021 Youth Leadership
 
 ![Youth Leadership](/images/youth-leadership.drawio.png)

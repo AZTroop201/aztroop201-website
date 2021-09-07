@@ -20,5 +20,3 @@ profile_img:
   summer camp to reach the goal of an outing per month.
 - Secure tour permits for all troop activities.
 - Report to the troop committee at each meeting.
-
-

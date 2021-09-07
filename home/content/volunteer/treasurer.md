@@ -23,4 +23,4 @@ profile_img: bridges.jpg
 - Report to the troop committee at each meeting.
 - Manage grocery fundraising programs
   - Bashas
-  - Fyy's
+  - Fry's

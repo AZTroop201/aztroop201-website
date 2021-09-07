@@ -17,9 +17,8 @@ menu: main
 - [Counsel Calendars](https://www.grandcanyonbsa.org/nylt/calendar)
 - [Counsel Monthly Newsletter](https://www.grandcanyonbsa.org/nylt/newsletter)
 
-## Troop 201 Miscellaneous 
+## Troop 201 Miscellaneous
 
 - [Troop Google Drive](https://bit.ly/aztroop201-family)
 - [Scottsdale Methodist Church](https://scottsdaleumc.org/)
 - [Scoutbook](https://scoutbook.scouting.org/)
-
