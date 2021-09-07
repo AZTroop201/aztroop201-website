@@ -1,0 +1,22 @@
+name: Check markdown and code quality
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  spellchecking:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Check out the code
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - uses: actions/setup-node@v1
+        name: Run spell check
+        with:
+          node-version: "12"
+      - run: npm install -g cspell
+      - run: cspell --config ./.cspell.json --exclude "./home/themes/**" "**/*.md"
