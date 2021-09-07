@@ -9,3 +9,7 @@ draft: false
 chair: Sean Bridges
 profile_img: bridges.jpg
 ---
+
+<!--
+TODO: Add Duties
+-->
