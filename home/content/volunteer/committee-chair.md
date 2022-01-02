@@ -25,7 +25,7 @@ delegated, coordinated and completed.
 - Ensure that all training is in place and work with the
   [Training Coordinator](../training) to validate the charter training needs are recorded.
 - Maintain a close relationship with the 
-  [chartered organization representative](charter-representative)
+  [Chartered Organization Representative](charter-representative)
   and the
   [Scoutmaster](scoutmaster).
 - Interpret national and local policies to the troop.
@@ -36,3 +36,8 @@ delegated, coordinated and completed.
 - Secure top-notch, trained individuals for camp leadership.
 - Arrange for charter review and recharter annually.
 - Plan the charter presentation.
+
+## Position History
+
+- Patricia George 2016-2021
+- Dean Bauer 2002-2016
