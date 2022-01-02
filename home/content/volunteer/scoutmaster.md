@@ -41,3 +41,8 @@ assistant Scoutmasters in their role.
   protecting the young people in your troop from abuse.
 - See that activities are conducted within BSA safety guidelines and
   requirements.
+
+## Position History
+
+- Mark Gilbreath 2017-2018
+- Mike Dillabough 2011-2016
