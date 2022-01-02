@@ -16,6 +16,6 @@ weight: 100
 
 ![Youth Leadership](/images/youth-leadership-2021.drawio.png)
 
-## 2019 Youth Leadership
+## 2019-2020 Youth Leadership
 
 ![Youth Leadership](/images/youth-leadership-2020.drawio.png)
