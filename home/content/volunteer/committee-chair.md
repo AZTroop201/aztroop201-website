@@ -24,7 +24,7 @@ delegated, coordinated and completed.
   and completed.
 - Ensure that all training is in place and work with the
   [Training Coordinator](../training) to validate the charter training needs are recorded.
-- Maintain a close relationship with the 
+- Maintain a close relationship with the
   [Chartered Organization Representative](charter-representative)
   and the
   [Scoutmaster](scoutmaster).
