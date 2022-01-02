@@ -1,0 +1,26 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap mw8 center">
+    <header class="mt4 w-100">
+
+      <img src="/images/fleurdelis300x300.jpg" class="br-100 pa2 ba b--black-10 fl w-40" style="width:100px" alt="avatar">
+      <div class="fl pl3">
+        <h1 class="f1 athelas mt3 mb1  ">
+          {{- .Title -}}
+        </h1>
+      </div>
+
+    </header>
+
+    <div class="br-100 nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-90-l ">
+      {{- .Content -}}
+    </div>
+
+
+  </article>
+{{ end }}
