@@ -19,6 +19,7 @@ menus:
 params:
   AuthorName: Sean Bridges
   GitHubUser: shizeon
+  GithubEdit: https://github.com/AZTroop201/aztroop201-website/edit/main/home/content/
   mainSections:
     - post
     - volunteers
