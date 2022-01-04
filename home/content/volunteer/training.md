@@ -8,6 +8,7 @@ weight: 100
 draft: false
 chair:
 chairs:
+list_memo: Urgent position to fill
 profile_img:
 ---
 

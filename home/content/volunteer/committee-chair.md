@@ -7,6 +7,7 @@ description: |
 weight: 2
 chair: Patricia George
 chairs:
+list_memo: Seeking urgent replacement
 profile_img: george.jpg
 ---
 
