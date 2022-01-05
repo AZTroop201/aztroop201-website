@@ -16,6 +16,8 @@ profile_img: wehry.jpg
 ## Duties
 
 - Keep minutes of meetings and send out committee meeting notices.
+- Ensure that Scoutbook Calendar is up to date and all events are registered.
+- Handle all Troop communications.
 - Handle publicity.
 - Prepare a family newsletter or web page of troop events and
   activities.
