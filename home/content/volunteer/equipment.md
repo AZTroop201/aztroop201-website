@@ -8,7 +8,7 @@ weight: 100
 draft: false
 chair: Jim Roper
 chairs:
-profile_img:
+profile_img: roper.jpg
 ---
 
 ## Duties
@@ -20,5 +20,3 @@ of all troop equipment.
 the safe use of all outdoor equipment.
 - Report to the troop committee at each meeting.
 - Handle troop donations and uniform recycling.
-
-
