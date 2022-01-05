@@ -7,6 +7,7 @@ description: |
 weight: 10
 draft: false
 chair: Sean Bridges
+list_memo: Seeking co-chairs or chair for 2022
 profile_img: bridges.jpg
 ---
 

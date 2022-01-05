@@ -5,9 +5,10 @@ tags:
 description: |
     Adult leadership
 weight: 2
-chair: Patricia George
+chair:
 chairs:
-profile_img: george.jpg
+list_memo: Seeking urgent replacement
+profile_img:
 ---
 
 ## Position Description

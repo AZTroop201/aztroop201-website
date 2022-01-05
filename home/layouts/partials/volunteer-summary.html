@@ -19,7 +19,6 @@
         </a>
       </h1>
 
-
         {{ if $vacant }}
         <h3>Position Vacant</h3>
         {{ else }}
@@ -46,6 +45,11 @@
 
         {{ end }}
 
+        {{ if .Params.list_memo }}
+        <div class="b red">
+          {{- .Params.list_memo -}}
+        </div>
+        {{ end }}
       <!--
         empty chair: {{ eq .Params.chair nil }} <br>
         empty chairs  {{ not ( isset .Params.chairs 0 )  }} <br>
