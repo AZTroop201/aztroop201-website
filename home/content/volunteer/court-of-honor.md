@@ -1,9 +1,9 @@
 ---
-title: "Kitchen Coordinator"
+title: Court of Honor Coordinator
 tags:
   - committee
 description: |
-  Prepare Court of Honor kitchen events.
+  Prepare Court of Honor events.
 weight: 100
 draft: false
 chair:
@@ -13,7 +13,8 @@ profile_img:
 
 ## Position Description
 
-Help our Court of Honor gatherings go smoothly by organizing potluck and kitchen preparations.
+Help our Court of Honor gatherings go smoothly by organizing potluck, event and
+kitchen preparations.
 
 ## Duties
 
