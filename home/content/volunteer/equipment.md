@@ -6,7 +6,7 @@ description: |
     Adult leadership
 weight: 100
 draft: false
-chair:
+chair: Jim Roper
 chairs:
 profile_img:
 ---
