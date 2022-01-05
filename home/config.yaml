@@ -13,6 +13,8 @@ menus:
   main:
   - name: Store
     url: https://aztroop201.square.site/
+  - name: Scoutbook
+    url: https://scoutbook.scouting.org/mobile/dashboard/
   - name: Contact
     url: mailto:info@aztroop201.org
 
