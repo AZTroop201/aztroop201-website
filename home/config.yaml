@@ -13,10 +13,13 @@ menus:
   main:
   - name: Store
     url: https://aztroop201.square.site/
+    weight: 40
   - name: Scoutbook
     url: https://scoutbook.scouting.org/mobile/dashboard/
+    weight: 50
   - name: Contact
     url: mailto:info@aztroop201.org
+    weight: 60
 
 params:
   AuthorName: Sean Bridges

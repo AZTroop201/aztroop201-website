@@ -5,7 +5,7 @@ omit_header_text: true
 description: 
 type: largeformat
 menu: main
-weight: 100
+weight: 10
 ---
 
 ## 2022 Youth Leadership

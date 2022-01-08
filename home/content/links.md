@@ -5,6 +5,7 @@ omit_header_text: true
 description: 
 type: page
 menu: main
+weight: 70
 ---
 
 ## Registration
