@@ -11,6 +11,7 @@ weight: 100
 ## 2022 Youth Leadership
 
 ![Youth Leadership](/images/youth-leadership.drawio.png)
+![Youth Descriptions](/images/youth-leadership-descriptions.drawio.png)
 
 ## 2021 Youth Leadership
 
