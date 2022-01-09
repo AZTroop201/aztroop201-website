@@ -37,8 +37,7 @@ Further, if a scout is not meeting their requirements, they will be asked to
 meet with the Scoutmaster and may be removed from the position to make room for
 a scout who can meet the requirements of the position.
 
-Below is a list of the positions that will be available to meet the Eagle
-requirements:
+Below is a list of the positions that will be available to meet the Eagle requirements:
 
 : **Senior Patrol Leader**: The senior patrol leader is the top leader of the troop. He is responsible for the troop’s overall operation. With guidance from the Scoutmaster, he takes charge of troop meetings, of the patrol leaders’ council, and of all troop activities, and he does everything he can to help each patrol be successful. He is responsible for annual program planning conferences and assists the Scoutmaster in conducting troop leadership training. The senior patrol leader presides over the patrol leaders’ council and works closely with each patrol leader to plan troop meetings and make arrangements for troop activities. All members of a troop vote by secret ballot to choose their senior patrol leader. Rank and age requirements to be a senior patrol leader are determined by each troop, as is the schedule of elections. During a Scout’s time as senior patrol leader, he is not a member of any patrol but may participate with a Venture patrol in high-adventure activities.
 
