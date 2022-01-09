@@ -1,5 +1,5 @@
 ---
-title: Activites
+title: Activities
 omit_header_text: true
 #featured_image: '/images/mainbackground.jpg'
 description:
