@@ -2,7 +2,7 @@
 title: Links
 omit_header_text: true
 #featured_image: '/images/mainbackground.jpg'
-description: 
+description:
 type: page
 menu: main
 weight: 70
