@@ -46,6 +46,12 @@ sitemap:
   filename: sitemap.xml
 
 markup:
+  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
+  markup:
+    tableOfContents:
+      endLevel: 3
+      ordered: false
+      startLevel: 2

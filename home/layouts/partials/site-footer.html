@@ -11,8 +11,8 @@
     {{ $File := .File }}
 
     {{ with .Site.Params.GithubEdit}}
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href='{{ . }}{{ $.Scratch.Get "FilePath" }}'>
-      Click to submit an update to this page
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href='{{ . }}{{ $.Scratch.Get "FilePath" }}' target="_blank">
+      Edit this page in GitHub
     </a>
     {{ end }}
   {{ end }}
