@@ -20,6 +20,7 @@ weight: 70
 
 ## Troop 201 Miscellaneous
 
-- [Troop Google Drive](https://bit.ly/aztroop201-family)
-- [Scottsdale Methodist Church](https://scottsdaleumc.org/)
 - [Scoutbook](https://scoutbook.scouting.org/)
+- [Scottsdale Methodist Church](https://scottsdaleumc.org/)
+- [Troop Family Google Drive](https://bit.ly/aztroop201-family)
+- [Troop Committee Google Drive](https://bit.ly/aztroop201-committee)
