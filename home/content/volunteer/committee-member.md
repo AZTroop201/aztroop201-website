@@ -18,6 +18,9 @@ chairs:
   - Terry Allison
 ---
 
-<!--
-TODO: Add Duties
--->
+## Duties
+
+- Attend all committee meetings
+- Participate in voting
+- Assist in adhoc sub-committees
+- Help facility the goals of the youth

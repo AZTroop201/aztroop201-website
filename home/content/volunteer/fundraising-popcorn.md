@@ -2,14 +2,16 @@
 title: Popcorn Fundraising
 tags:
   - fundraising
+  - annual
 description: |
     Responsible for coordinating and executing our Popcorn fundraising events
-weight: 10
+weight: 1
+# weight: 10
 draft: false
-chair: Leslie O'Shea
-profile_img: oshea.jpg
+chair:
+profile_img:
 ---
 
-<!--
-TODO: Add Duties
--->
+## Position History
+
+- Leslie O'Shea 2016-2020

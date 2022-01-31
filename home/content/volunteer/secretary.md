@@ -17,14 +17,13 @@ profile_img: wehry.jpg
 
 - Keep minutes of meetings and send out committee meeting notices.
 - Ensure that Scoutbook Calendar is up to date and all events are registered.
+- Maintain member health forms and perform annual audit.
 - Handle all Troop communications.
 - Handle publicity.
 - Prepare a family newsletter or web page of troop events and
   activities.
 - Conduct the troop resource survey.
-- Plan for family night programs and family activities.
 - At each meeting, report the minutes of the previous meeting.
-- Maintain member health forms and perform annual audit.
 
 ## Chairs
 

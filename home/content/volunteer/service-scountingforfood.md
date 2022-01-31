@@ -2,10 +2,12 @@
 title: Scouting for Food Coordinator
 tags:
   - service
+  - annual
 description: |
     Responsible for coordinating and executing our Annual Scouting for Food
     service project
-weight: 10
+weight: 1
+# weight: 10
 draft: false
 chair:
 profile_img:

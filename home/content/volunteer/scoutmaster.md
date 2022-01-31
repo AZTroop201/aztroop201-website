@@ -6,7 +6,7 @@ tags:
 description: |
     Adult leadership
 draft: false
-weight: 1
+weight: 2
 chair: Bob Humphrey
 profile_img: humphrey.jpg
 ---

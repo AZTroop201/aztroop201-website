@@ -12,7 +12,6 @@ chairs:
   - Jim Roper
 ---
 
-
 ## Description
 
 Provide adult guidance to patrol leaders and and patrol members.

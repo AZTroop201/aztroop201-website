@@ -4,7 +4,8 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 100
+weight: 1
+# weight: 100
 draft: false
 chair:
 profile_img:
@@ -21,4 +22,3 @@ Scouts to Boy Scouts.
 - Encourage Scouts to invite their friends to join the troop.
 - Keep track of Scouts who drop out of the troop, and develop a plan to encourage
 them to rejoin
-

@@ -2,6 +2,7 @@
 title: "Fiesta Bowl"
 tags:
   - fundraiser
+  - annual
 description: |
     Coordinate and run our yearly Fiesta Bowl Fundraiser
 weight: 10

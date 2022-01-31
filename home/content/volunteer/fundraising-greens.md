@@ -1,6 +1,7 @@
 ---
 title: Holiday Greens
 tags:
+  - annual
   - fundraising
 description: |
     Responsible for coordinating and executing our Holiday Greens fundraiser

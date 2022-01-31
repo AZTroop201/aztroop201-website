@@ -4,7 +4,7 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 100
+weight: 50
 draft: false
 chair: Jim Roper
 chairs:

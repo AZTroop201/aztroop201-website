@@ -5,7 +5,7 @@ tags:
 description: |
   Prepare Court of Honor events.
 weight: 100
-draft: false
+draft: true
 chair:
 chairs:
 profile_img:

@@ -4,7 +4,8 @@ tags:
   - key-three
 description: |
     Adult leadership
-weight: 2
+weight: 1
+# weight: 2
 chair:
 chairs:
 list_memo: Seeking urgent replacement
