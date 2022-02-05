@@ -5,10 +5,9 @@ tags:
   - annual
 description: |
     Adult leadership
-# weight: 100
-weight: 1
+weight: 50
 draft: false
-chair:
+chair: LaDawn Bentley
 profile_img:
 ---
 

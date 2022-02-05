@@ -1,11 +1,11 @@
 ---
-title: "Fiesta Bowl"
+title: Fiesta Bowl
 tags:
   - fundraiser
   - annual
 description: |
     Coordinate and run our yearly Fiesta Bowl Fundraiser
-weight: 10
+weight: 50
 draft: false
 chair: Josh Friedman
 profile_img: friedman.jpg

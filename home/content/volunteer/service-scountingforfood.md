@@ -6,10 +6,11 @@ tags:
 description: |
     Responsible for coordinating and executing our Annual Scouting for Food
     service project
-weight: 1
-# weight: 10
+weight: 100
 draft: false
-chair:
+chairs:
+  - Ed Gookin
+  - Keri Cavanaugh
 profile_img:
 ---
 

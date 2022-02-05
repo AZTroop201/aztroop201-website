@@ -5,13 +5,12 @@ tags:
   - annual
 description: |
     Responsible for coordinating and executing our Popcorn fundraising events
-weight: 1
-# weight: 10
+weight: 50
 draft: false
-chair:
+chair: Ed Gookin
 profile_img:
 ---
 
 ## Position History
 
-- Leslie O'Shea 2016-2020
+- Leslie O'Shea 2016-2021

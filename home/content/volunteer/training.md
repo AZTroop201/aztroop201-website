@@ -4,12 +4,11 @@ tags:
   - committee
 description: |
     Adult leadership
-# weight: 100
-weight: 1
+weight: 50
 draft: false
-chair:
+chair: Lorilai Headlee
 chairs:
-list_memo: Urgent position to fill
+list_memo:
 profile_img:
 ---
 

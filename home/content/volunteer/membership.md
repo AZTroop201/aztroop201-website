@@ -4,10 +4,9 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 1
-# weight: 100
+weight: 50
 draft: false
-chair:
+chair: LaDawn Bentley
 profile_img:
 ---
 

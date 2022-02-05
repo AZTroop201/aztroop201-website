@@ -5,11 +5,10 @@ tags:
 description: |
     Adult leadership
 weight: 1
-# weight: 2
-chair:
+chair: Keri Cavanaugh
 chairs:
-list_memo: Seeking urgent replacement
-profile_img:
+list_memo:
+profile_img: cavanaugh.jpg
 ---
 
 ## Position Description

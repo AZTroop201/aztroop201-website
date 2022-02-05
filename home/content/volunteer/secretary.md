@@ -4,13 +4,11 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 5
+weight: 50
 draft: false
-chair: Anthony Wehry
+chair: Diana Kaminski
 chairs:
-  - Diana Kaminski
-  - Iris Wehry
-profile_img: wehry.jpg
+profile_img: kaminski.jpg
 ---
 
 ## Duties
@@ -25,13 +23,6 @@ profile_img: wehry.jpg
 - Conduct the troop resource survey.
 - At each meeting, report the minutes of the previous meeting.
 
-## Chairs
+## Position History
 
-### Diana
-
-- Prepare a family newsletter or web page of troop events and
-  activities.
-
-### Iris
-
-- Keep minutes of meetings and send out committee meeting notices.
+- Anthony Wehry 2019-2021

@@ -4,10 +4,12 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 5
+#weight: 5
+weight: 1
 draft: false
 chair: Jennifer Bump
 chairs:
+list_memo: Seeking Assistant
 profile_img: bump.jpg
 ---
 

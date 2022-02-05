@@ -4,13 +4,15 @@ tags:
   - committee
 description: |
     Adult leadership
-# weight: 100
-weight: 1
+weight: 50
 draft: false
+chair:
 chairs:
-  - Keri Cavanaugh
-list_memo: Seeking replacement
-profile_img: cavanaugh.jpg
+  - Anthony Wehry
+  - Iris Wehry
+  - Robin Weber
+list_memo:
+profile_img:
 ---
 
 ## Duties

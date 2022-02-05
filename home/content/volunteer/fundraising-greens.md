@@ -5,10 +5,13 @@ tags:
   - fundraising
 description: |
     Responsible for coordinating and executing our Holiday Greens fundraiser
-weight: 10
+weight: 50
 draft: false
 chair: Sean Bridges
-list_memo: Seeking co-chairs or chair for 2022
+chairs:
+  - Bruce Weber
+  - Ed Gookin
+list_memo:
 profile_img: bridges.jpg
 ---
 
