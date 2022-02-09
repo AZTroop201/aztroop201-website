@@ -10,7 +10,7 @@ chair:
 chairs:
   - Anthony Wehry
   - Iris Wehry
-  - Robin Weber
+  - Amy O'Neal
 list_memo:
 profile_img:
 ---
