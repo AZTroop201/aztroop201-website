@@ -3,14 +3,12 @@ title: Assistant Scoutmaster
 tags:
   - troop
 description: |
-    Charter rep description
+    Troop Assistant Scoutmaster
 weight: 4
 chair: Josh Friedman
 chairs:
   - Bruce Weber
-  - Tom George
   - Collin Kerr
-  - Dean Bauer
 profile_img: friedman.jpg
 ---
 
