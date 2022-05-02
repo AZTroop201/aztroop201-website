@@ -10,7 +10,8 @@ weight: 70
 
 ## Registration
 
-- [Online Registration](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-010taa0201)
+- [Online Registration](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-010taa0201) for youth and adult applications.
+- [Be-A-Scout](https://beascout.scouting.org/list/?zip=85251&program%5B%5D=scoutsBSA&unitID=314498)
 
 ## Grand Canyon Council Links
 
