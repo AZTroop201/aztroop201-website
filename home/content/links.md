@@ -10,7 +10,7 @@ weight: 70
 
 ## Registration
 
-- [Online Registration](https://www.scouting.org/resources/online-registration/)
+- [Online Registration](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-010taa0201)
 
 ## Grand Canyon Council Links
 
