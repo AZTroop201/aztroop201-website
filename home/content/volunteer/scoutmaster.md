@@ -3,6 +3,7 @@ title: Scoutmaster
 tags:
   - key-three
   - troop
+  - troop-required
 description: |
     Adult leadership
 draft: false

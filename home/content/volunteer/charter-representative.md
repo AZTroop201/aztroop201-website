@@ -2,6 +2,7 @@
 title: Charter Representative
 tags:
   - key-three
+  - troop-required
 description: |
     Charter rep description
 weight: 3

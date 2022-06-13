@@ -2,6 +2,7 @@
 title: Committee Chair
 tags:
   - key-three
+  - troop-required
 description: |
     Adult leadership
 weight: 1
