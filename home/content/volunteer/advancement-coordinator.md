@@ -2,6 +2,7 @@
 title: Advancement Coordinator
 tags:
   - committee
+  - troop-required
 description: |
     Adult leadership
 #weight: 5

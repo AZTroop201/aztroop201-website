@@ -2,6 +2,7 @@
 title: Secretary
 tags:
   - committee
+  - troop-required
 description: |
     Adult leadership
 weight: 50
