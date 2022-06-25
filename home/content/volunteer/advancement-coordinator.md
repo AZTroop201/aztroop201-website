@@ -5,12 +5,12 @@ tags:
   - troop-required
 description: |
     Adult leadership
-#weight: 5
-weight: 1
+weight: 5
 draft: false
 chair: Jennifer Bump
 chairs:
-list_memo: Seeking Assistant
+  - Amy O'Neil
+list_memo:
 profile_img: bump.jpg
 ---
 
