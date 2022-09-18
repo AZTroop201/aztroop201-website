@@ -22,6 +22,6 @@ weight: 70
 ## Troop 201 Miscellaneous
 
 - [Scoutbook](https://scoutbook.scouting.org/)
-- [Scottsdale Methodist Church](https://scottsdaleumc.org/)
+- [Camelback Church of Christ](https://www.camelbackchurchofchrist.org/)
 - [Troop Family Google Drive](https://bit.ly/aztroop201-family)
 - [Troop Committee Google Drive](https://bit.ly/aztroop201-committee)
