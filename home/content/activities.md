@@ -19,6 +19,21 @@ your Scout in the access request.
 
 ## Troop Outing History
 
+### 2022
+
+- JAN: Camp Double-V, Saguaro National Park
+- FEB: Hackberry backpacking
+- MAR: Bartlett Lake Canoe camp
+- APR: Arizona Trail camp
+- MAY: Pack induction Family camp
+- JUN: Geronimo Summer camp
+- JUL: Flagstaff Extreme and Fort Tuthill camp
+- AUG: Arizona trail mountain bike camp
+- SEP: Aravaipa Canyon backpacking
+- OCT: Camp and Hike Superstitions
+- NOV: Urban Adventure
+- DEC: Day Hike
+
 ### 2021
 
 - JAN: Flat Iron, Scouting for Food
