@@ -1,9 +1,10 @@
 ---
 title: Activities
-omit_header_text: true
-#featured_image: '/images/mainbackground.jpg'
-description:
-type: largeformat
+omit_header_text: false
+featured_image: '/images/20220820T124751-Troop201Troop201FlagstaffMountainBiking.jpg'
+description: |
+    Troop 201 prides itself on being an outdoor active troop with the 3rd weekend each month being dedicated to a Troop outings. Backpacking, camping, rafting, canoeing, skiing, biking, and hiking.
+type: page
 menu: main
 weight: 80
 ---
@@ -21,105 +22,112 @@ your Scout in the access request.
 
 ### 2022
 
-- JAN: Camp Double-V, Saguaro National Park
-- FEB: Hackberry backpacking
-- MAR: Bartlett Lake Canoe camp
-- APR: Arizona Trail camp
-- MAY: Pack induction Family camp
-- JUN: Geronimo Summer camp
-- JUL: Flagstaff Extreme and Fort Tuthill camp
-- AUG: Arizona trail mountain bike camp
-- SEP: Aravaipa Canyon backpacking
-- OCT: Camp and Hike Superstitions
-- NOV: Urban Adventure
-- DEC: Day Hike
+Outings
+: JAN: Camp Double-V, Saguaro National Park
+: FEB: Hackberry backpacking
+: MAR: Bartlett Lake Canoe camp
+: APR: Arizona Trail camp
+: MAY: Pack induction Family camp
+: JUN: Geronimo Summer camp
+: JUL: Flagstaff Extreme and Fort Tuthill camp
+: AUG: Arizona trail mountain bike camp
+: SEP: Aravaipa Canyon backpacking
+: OCT: Camp and Hike Superstitions
+: NOV: Urban Adventure
+: DEC: Day Hike
 
 ### 2021
 
-- JAN: Flat Iron, Scouting for Food
-- FEB: Hackberry Springs
-- MAR: Bartlett Lake (was salt river)
-- APR: Day Hike on Highline Trail Via 260 Trail Head and Park and Flop Camping (was Antelope Canyon)
-- MAY: Family Camp for Pack 100
-- JUN: Emerald Bay and Geronimo
-- JUL: Lockett Meadow
-- AUG: Snowbowl Bike
-- SEP: Aravaipa
-- OCT: Chiricahua National Monument
-- NOV: Urban Adventure
-- DEC: Day Hike South Mountain, Fiesta Bowl
+Outings
+: JAN: Flat Iron, Scouting for Food
+: FEB: Hackberry Springs
+: MAR: Bartlett Lake (was salt river)
+: APR: Day Hike on Highline Trail Via 260 Trail Head and Park and Flop Camping (was Antelope Canyon)
+: MAY: Family Camp for Pack 100
+: JUN: Emerald Bay and Geronimo
+: JUL: Lockett Meadow
+: AUG: Snowbowl Bike
+: SEP: Aravaipa
+: OCT: Chiricahua National Monument
+: NOV: Urban Adventure
+: DEC: Day Hike South Mountain, Fiesta Bowl
 
 ### 2020
 
-- JAN: Urban Adventure
-- FEB: Ski Trip @ Snowbowl
-- MAR: Joshua Tree
-- APR: Family Camp for Pack 100
-- MAY: Chiricahua National Monument
-- JUN: Emerald Bay and Geronimo Summer Camps
-- JUL: Fools Hollow
-- AUG: Snowbowl Mountain Biking
-- SEP: Aravaipa (Permit required)
-- OCT: Kartchner Caverns
-- NOV: Honey Bee Loop, Biosphere
-- DEC: Superstition Peralta Trail
+Outings
+: JAN: Urban Adventure
+: FEB: Ski Trip @ Snowbowl
+: MAR: Joshua Tree
+: APR: Family Camp for Pack 100
+: MAY: Chiricahua National Monument
+: JUN: Emerald Bay and Geronimo Summer Camps
+: JUL: Fools Hollow
+: AUG: Snowbowl Mountain Biking
+: SEP: Aravaipa (Permit required)
+: OCT: Kartchner Caverns
+: NOV: Honey Bee Loop, Biosphere
+: DEC: Superstition Peralta Trail
 
 ### 2019
 
-- JAN: Scouting for food, Urban adventure
-- FEB: Snowboarding and Skiing Outing
-- MAR: Salt River Rafting and Ben Avery shooting range
-- APR: Canyon De Chelly
-- MAY: Family camp
-- JUN: Camp raymond & Camp emerald bay
-- JUL: Woods Canyon lake
-- AUG: San Francisco Peaks Trail / Arizona Trail
-- SEP: Aravaipa
-- OCT: Burnt Corral
-- NOV: Catalina State Park
-- DEC: Horse Lover's Park
+Outings
+: JAN: Scouting for food, Urban adventure
+: FEB: Snowboarding and Skiing Outing
+: MAR: Salt River Rafting and Ben Avery shooting range
+: APR: Canyon De Chelly
+: MAY: Family camp
+: JUN: Camp raymond & Camp emerald bay
+: JUL: Woods Canyon lake
+: AUG: San Francisco Peaks Trail / Arizona Trail
+: SEP: Aravaipa
+: OCT: Burnt Corral
+: NOV: Catalina State Park
+: DEC: Horse Lover's Park
 
 ### 2018
 
-- JAN: Urban Adventure
-- FEB: Ski Outing
-- MAR: Mercer Ranch
-- APR: Antelope Canyon
-- MAY: Family Camp
-- JUN: Emerald Bay/Camp Raymond
-- JUL: Woods Canyon Lake Canoeing
-- AUG: Hannigan's Meadow
-- SEP: Sunset Crater
-- OCT: Bartlett Lake
-- NOV: Hackberry Springs
-- DEC: Camping on the Ridge
+Outings
+: JAN: Urban Adventure
+: FEB: Ski Outing
+: MAR: Mercer Ranch
+: APR: Antelope Canyon
+: MAY: Family Camp
+: JUN: Emerald Bay/Camp Raymond
+: JUL: Woods Canyon Lake Canoeing
+: AUG: Hannigan's Meadow
+: SEP: Sunset Crater
+: OCT: Bartlett Lake
+: NOV: Hackberry Springs
+: DEC: Camping on the Ridge
 
 ### 2016
 
-- JAN: Pinetop, sunrise ski resort
-- FEB: scout o rama
-- MAR: Aravaipa/ upper salt river rafting?
-- APR: superstitions
-- MAY: pack 100 family camp
-- JUN: summer camp, camp raymond
-- JUL: woods canyon
-- AUG: flagstaff
-- SEP: blue ridge
-- OCT: grand canyon
-- NOV: Chiricahua's, fort bowie
-- DEC: adopt a family
+Outings
+: JAN: Pinetop, Sunrise ski resort
+: FEB: Scout-o-Rama
+: MAR: Upper salt river rafting
+: APR: Superstitions backpack
+: MAY: Pack 100 Family Camp
+: JUN: Camp Raymond
+: JUL: woods canyon
+: AUG: Flagstaff
+: SEP: Blue Ridge
+: OCT: Grand Canyon
+: NOV: Chiricahua's, fort bowie
+: DEC: adopt a family
 
 ### 2015
 
-- JAN: urban adventure
-- FEB: down hill skiing
-- MAR: Aravaipa canyon
-- APR: canoeing/ yuma
-- MAY: pack 100 family camp
-- JUN: summer camp, camp raymond
-- JUL: hike????
-- AUG: biking/ flagstaff
-- SEP: Blue Ridge
-- OCT: pinto creek
-- NOV: 7 springs
-- DEC: in town, giving back day!!
+Outings
+: JAN: Urban Adventure
+: FEB: Downhill skiing
+: MAR: Aravaipa canyon
+: APR: Canoeing in yuma
+: MAY: Pack 100 Family camp
+: JUN: Camp Raymond
+: JUL: Hike
+: AUG: biking/ flagstaff
+: SEP: Blue Ridge
+: OCT: pinto creek
+: NOV: Seven springs
+: DEC: in town, giving back day!!
