@@ -74,10 +74,14 @@ responsibilities, he may have the guidance of a member of the troop committee.
 
 ## Troop 201 Leader History
 
+### 2022 Youth Leadership
+
+![Youth Leadership](/images/youth-leadership-2022.drawio.png)
+
 ### 2021 Youth Leadership
 
 ![Youth Leadership](/images/youth-leadership-2021.drawio.png)
 
-### 2019-2020 Youth Leadership
+### 2020 Youth Leadership
 
 ![Youth Leadership](/images/youth-leadership-2020.drawio.png)
