@@ -8,14 +8,16 @@ weight: 3
 draft: false
 chair:
 chairs:
-  - Diana Kaminski
-  - Sean Bridges
-  - Jim Roper
-  - Ted Kennedy
-  - Patricia George
+  - Alyssa Heil
+  - Anuj Bhatnagar
+  - Collin Kerr
   - David Schafranka
-  - Mike Dillabough
-  - Terry Allison
+  - Dawn Bentley
+  - Diana Kaminski
+  - Jim Roper
+  - Michele Oihus
+  - Ronald Butler
+  - Sean Bridges
 ---
 
 ## Duties

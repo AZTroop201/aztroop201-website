@@ -41,7 +41,10 @@
     ],
     "enabled": true,
     "ignoreWords": [
+        "Anuj",
+        "Bhatnagar",
         "Crostini",
+        "Oihus",
         "SECTIONNAME",
         "THEMENAME",
         "allowfullscreen",
