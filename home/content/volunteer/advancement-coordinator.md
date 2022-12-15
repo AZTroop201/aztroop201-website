@@ -7,9 +7,8 @@ description: |
     Adult leadership
 weight: 5
 draft: false
-chair: Jennifer Bump
+chair: Amy O'Neil
 chairs:
-  - Amy O'Neil
 list_memo:
 profile_img: bump.jpg
 ---
@@ -25,3 +24,8 @@ troop board of review is held. Secure badges and certificates.
 - Work with the troop librarian to build and maintain a troop library of merit badge
 pamphlets and other advancement literature.
 - Report to the troop committee at each meeting.
+
+## Position History
+
+- Jennifer Bump: 2018 -2022
+- Dave Schafranka: 2002-2018
