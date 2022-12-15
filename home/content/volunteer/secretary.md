@@ -27,3 +27,5 @@ profile_img: kaminski.jpg
 ## Position History
 
 - Anthony Wehry 2019-2021
+- Sean Bridges 2015-2019
+- Ted Harrison 2001-2015
