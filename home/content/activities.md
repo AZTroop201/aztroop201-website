@@ -18,6 +18,21 @@ members of the active troop will be granted access. If this is your first time
 accessing, please click the link and request access by specifying the name of
 your Scout in the access request.
 
+## 2023 Outings
+
+: JAN: Picacho Peak
+: FEB: Saguaro National, Museum Visit, Camp Double V
+: MAR: Salt River Rafting
+: APR: Canyon de Chelly
+: MAY: Family Camp
+: JUN: Summer Camps: Geronimo and Emerald Bay
+: JUL: Los Burros Campground
+: AUG: Urban Adventure in Flagstaff
+: SEP: Aravaipa
+: OCT: Geronimo Shooting
+: NOV: Usery Pass Mountain Biking
+: DEC: Picket Post
+
 ## Troop Outing History
 
 ### 2022
