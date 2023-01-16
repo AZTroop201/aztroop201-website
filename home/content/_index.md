@@ -9,6 +9,9 @@ description: |
     You can visit us at any meeting as well as contact our Committee members at info@aztroop201.org for more information.
 ---
 
+:trophy: Proud recipient of the Central District 2022 Troop of the Year Award :trophy:
+
+
 ## Current Scouts
 
 Troop 201 utilizes Scoutbook to handle all communications, calendar planning, advancement and discussions. Once you have joined Troop 201, your account will be created and used throughout your Scouting journey. Login at https://scoutbook.scouting.org/

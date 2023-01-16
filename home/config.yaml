@@ -8,7 +8,7 @@ copyright: Troop 201 -
 
 SectionPagesMenu: main
 Paginate: 9
-
+enableEmoji: true
 menus:
   main:
   - name: Store
