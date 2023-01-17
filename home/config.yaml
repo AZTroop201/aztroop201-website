@@ -27,7 +27,10 @@ params:
   GithubEdit: https://github.com/AZTroop201/aztroop201-website/edit/main/home/content/
   mainSections:
     - post
-    - volunteers
+    - volunteer
+    - resources
+      - links
+      - merit-badge
   # ListOfFoo:
   # - foo1
   # - foo2

@@ -4,8 +4,10 @@ omit_header_text: false
 featured_image: '/images/20220820T124751-Troop201Troop201FlagstaffMountainBiking.jpg'
 description: |
     Troop 201 prides itself on being an outdoor active troop with the 3rd weekend each month being dedicated to a Troop outings. Backpacking, camping, rafting, canoeing, skiing, biking, and hiking.
+summary: Monthly outings and adventures
+draft: false
 type: page
-menu: main
+menu: resources
 weight: 80
 ---
 

@@ -1,11 +1,13 @@
 ---
-title: Links & FAQ
+title: Links
 omit_header_text: true
 #featured_image: '/images/mainbackground.jpg'
-description:
-type: page
-menu: main
+description: Site Links
+summary: Site Links
+menu: resources
 weight: 70
+draft: false
+type: page
 ---
 
 ## Registration
@@ -28,17 +30,3 @@ weight: 70
 - [Scoutbook](https://scoutbook.scouting.org/)
 - [Camelback Church of Christ](https://www.camelbackchurchofchrist.org/)
 - [Troop Committee Google Drive](https://bit.ly/aztroop201-committee)
-
-## FAQ
-
-### Earn money for camperships through Fry's
-
-If you shop at Fry’s, you can visit [frysfood.com](https://frysfood.com) and
-link your card to our organization code of BX912. All funds will help fund our
-campership account.
-
-### Earn 6% back with Bashas cards
-
-If you shop at Bashas, get your Troop 201 linked card today and have 6% of all
-purchases go towards your fundraising account that can be used for yearly dues
-and summer camps.
