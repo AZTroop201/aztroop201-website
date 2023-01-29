@@ -6,8 +6,10 @@ tags:
 description: |
     Charter rep description
 weight: 3
-chair: Terry Allison
+chair: Ron Butler
 chairs:
+profile_img: butler.png
+
 ---
 
 ## Description
@@ -41,3 +43,7 @@ The Chartered Organization Representative is the direct contact between the unit
 - Cultivate resources to support your organization’s units.
 - Represent your organization on the council and district levels.
 - Serve on your council’s relationship committees when asked.
+
+## Position History
+
+- Terry Alison 2020-2022
