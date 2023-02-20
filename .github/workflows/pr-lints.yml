@@ -9,7 +9,7 @@ jobs:
   spellchecking:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         name: Check out the code
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
@@ -17,6 +17,6 @@ jobs:
       - uses: actions/setup-node@v1
         name: Run spell check
         with:
-          node-version: "14"
+          node-version: "16"
       - run: npm install -g cspell
       - run: cspell --config ./.cspell.json --exclude "./home/themes/**" "**/*.md"
