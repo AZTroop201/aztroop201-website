@@ -10,6 +10,18 @@ draft: false
 type: page
 ---
 
+## Troop 201 File Sharing
+
+The Troop uses google drive to share and distribute troop information. Each Google drive share is restricted to only members of the Troop.
+
+> If you receive a **Request Permissions** screen, please enter your Scouts name in the request box and hit 'Request Access'
+
+- [Troop Family Google Drive](https://bit.ly/aztroop201-family): All Troop Family information. Calendars, Meeting Minutes, Outing Details, etc
+  - [Meeting Minutes](https://drive.google.com/drive/u/2/folders/1FZuzRu64BdNfquUhkbaZLJE1-JXuNKp0)
+  - [Planning Calendar](https://drive.google.com/drive/u/2/folders/14Tb5apOoaC6hCG6ajJS8PEziS71DgKAu)
+- [Troop Committee Google Drive](https://bit.ly/aztroop201-committee): Troop Committee Resources for all Troop registered committee members.
+
+
 ## Registration
 
 - [Online Registration](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-010taa0201) for youth and adult applications.
@@ -23,10 +35,5 @@ type: page
 
 ## Troop 201 Miscellaneous
 
-- [Troop Family Google Drive](https://bit.ly/aztroop201-family): _Request access
-  and include your scouts name if you get a **Request Permissions** error_.
-  - [Meeting Minutes](https://drive.google.com/drive/u/2/folders/1FZuzRu64BdNfquUhkbaZLJE1-JXuNKp0)
-  - [Planning Calendar](https://drive.google.com/drive/u/2/folders/14Tb5apOoaC6hCG6ajJS8PEziS71DgKAu)
 - [Scoutbook](https://scoutbook.scouting.org/)
 - [Camelback Church of Christ](https://www.camelbackchurchofchrist.org/)
-- [Troop Committee Google Drive](https://bit.ly/aztroop201-committee)
