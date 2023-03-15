@@ -4,7 +4,7 @@ tags:
   - troop
 description: |
     Troop Eagle Scout Advisor
-weight: 4
+weight: 6
 chair: Josh Friedman
 chairs:
 profile_img: friedman.jpg

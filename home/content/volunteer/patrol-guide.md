@@ -4,7 +4,7 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 5
+weight: 6
 draft: false
 chair:
 chairs:

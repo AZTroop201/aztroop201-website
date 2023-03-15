@@ -5,7 +5,7 @@ tags:
   - troop-required
 description: |
     Adult leadership
-weight: 50
+weight: 5
 draft: false
 chair: Sean Bridges
 profile_img: bridges.jpg

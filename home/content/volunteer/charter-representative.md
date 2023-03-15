@@ -6,9 +6,9 @@ tags:
 description: |
     Charter rep description
 weight: 3
-chair: Ron Butler
+chair: Mechele Oihus
 chairs:
-profile_img: butler.png
+profile_img:
 
 ---
 
