@@ -1,7 +1,7 @@
 ---
 title: Scottsdale Troop 201
 omit_header_text: true
-featured_image: '/images/mainbackground.jpg'
+featured_image: '/images/mainbackground-troop.jpg'
 description: |
     Scottsdale Arizona Boy Scouts Troop 201. Thank you for visiting the Troop 201 website.
     Troop 201 is part of the Grand Canyon Council in the Central District.
