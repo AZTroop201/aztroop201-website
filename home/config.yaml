@@ -15,7 +15,7 @@ menus:
     url: https://aztroop201.square.site/
     weight: 40
   - name: Scoutbook
-    url: https://scoutbook.scouting.org/mobile/dashboard/
+    url: https://scoutbook.scouting.org/
     weight: 50
   - name: Contact
     url: mailto:info@aztroop201.org
