@@ -36,4 +36,6 @@ The Troop uses google drive to share and distribute troop information. Each Goog
 ## Troop 201 Miscellaneous
 
 - [Scoutbook](https://scoutbook.scouting.org/)
+- [Merit Badge Worksheets](http://usscouts.org/mb/worksheets/list.asp)
+- [Merit Badge Requirements](https://www.scouting.org/skills/merit-badges/all/)
 - [Camelback Church of Christ](https://www.camelbackchurchofchrist.org/)
