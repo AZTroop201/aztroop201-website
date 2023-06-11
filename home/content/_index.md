@@ -3,7 +3,7 @@ title: Scottsdale Troop 201
 omit_header_text: true
 featured_image: '/images/mainbackground-troop.jpg'
 description: |
-    Scottsdale Arizona Boy Scouts Troop 201. Thank you for visiting the Troop 201 website.
+    Scottsdale Arizona Boy Scouts Troop 201 established in 1966.
     Troop 201 is part of the Grand Canyon Council in the Central District.
     We are a youth-led troop that meets Tuesdays from 7pm – 8:30pm at Camelback Church of Christ.
     You can visit us at any meeting as well as contact our Committee members at info@aztroop201.org for more information.
