@@ -10,8 +10,11 @@ weight: 15
 
 ## Troop 201 Eagles
 
-|# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name | Date |
-|:-:|----| --:|
+<!-- cSpell:disable -->
+
+
+|# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Date |
+|:---|:---| --:|
 |1|James H. Novak|04/24/1968|
 |2|Daniel J. Sola|08/27/1969|
 |3|Gary W. Hardy|08/27/1969|
@@ -42,7 +45,7 @@ weight: 15
 |28|Richard Bodenhamer|10/04/1986|
 |29|James M. Klouzal|10/22/1986|
 |30|David Ciemnoczolowski|06/25/1987|
-|31|Michael C. Ra|09/03/1987|
+|31|Michael C. Raby|09/03/1987|
 |32|Christian D. Smallsreed|11/04/1987|
 |33|Steven L. Schmitt|11/24/1987|
 |34|David Kahn|03/23/1988|
@@ -115,3 +118,6 @@ weight: 15
 |101|Dakota Clark|02/17/2022|
 |102|Eli Bump|10/20/2022|
 |103|Connor Bridges|03/16/2023|
+
+![](/images/eagle_nest_plaque_1.jpg)
+![](/images/eagle_nest_plaque_2.jpg)
