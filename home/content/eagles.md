@@ -119,5 +119,5 @@ weight: 15
 |102|Eli Bump|10/20/2022|
 |103|Connor Bridges|03/16/2023|
 
-![](/images/eagle_nest_plaque_1.jpg)
-![](/images/eagle_nest_plaque_2.jpg)
+![](/images/eagle_nest_plaque_1.png)
+![](/images/eagle_nest_plaque_2.png)
