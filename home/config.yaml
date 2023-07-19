@@ -26,14 +26,12 @@ params:
   GitHubUser: shizeon
   GithubEdit: https://github.com/AZTroop201/aztroop201-website/edit/main/home/content/
   mainSections:
-    - post
+    - youth
+    - eagles
     - volunteer
     - resources
       - links
       - merit-badge
-  # ListOfFoo:
-  # - foo1
-  # - foo2
   SidebarRecentLimit: 5
   Subtitle: Troop 201 Subtitle, where does this show
   custom_css:
