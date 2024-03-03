@@ -118,7 +118,7 @@ weight: 15
 | 101                                    | Dakota Clark                                                | 02/17/2022 |
 | 102                                    | Eli Bump                                                    | 10/20/2022 |
 | 103                                    | Connor Bridges                                              | 03/16/2023 |
-| 104                                    | Maxim Kaminski                                              | 11/16/2023 |
+| 104                                    | Max Kaminski                                                | 11/16/2023 |
 | 105                                    | Julian Bentley                                              | 02/15/2024 |
 
 ![](/images/eagle_nest_plaque_1.png)
