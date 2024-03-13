@@ -5,7 +5,7 @@ tags:
   - troop-required
 description: |
     Adult leadership
-weight: 1
+weight: 2
 chair: Keri Cavanaugh
 chairs:
 list_memo:

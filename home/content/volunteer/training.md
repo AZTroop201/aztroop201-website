@@ -4,9 +4,10 @@ tags:
   - committee
 description: |
     Adult leadership
-weight: 50
+#weight: 50
+weight: 1
 draft: false
-chair: Lorilai Headlee
+chair:
 chairs:
 list_memo:
 profile_img:

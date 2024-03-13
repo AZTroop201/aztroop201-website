@@ -8,8 +8,8 @@ description: |
     Adult leadership
 draft: false
 weight: 2
-chair: Bob Humphrey
-profile_img: humphrey.jpg
+chair: Bruce Weber
+profile_img: weber.jpg
 ---
 
 ## Position Description
@@ -45,5 +45,6 @@ assistant Scoutmasters in their role.
 
 ## Position History
 
+- Bob Humphrey 2019-2023
 - Mark Gilbreath 2017-2018
 - Mike Dillabough 2011-2016

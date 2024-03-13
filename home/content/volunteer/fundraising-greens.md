@@ -9,8 +9,7 @@ weight: 50
 draft: false
 chair: Sean Bridges
 chairs:
-  - Bruce Weber
-  - Ed Gookin
+  - Linda Waldenberger
 list_memo:
 profile_img: bridges.jpg
 ---

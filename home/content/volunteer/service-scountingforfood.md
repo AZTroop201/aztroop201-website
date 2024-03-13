@@ -9,7 +9,6 @@ description: |
 weight: 100
 draft: false
 chairs:
-  - Ed Gookin
   - Keri Cavanaugh
 profile_img:
 ---

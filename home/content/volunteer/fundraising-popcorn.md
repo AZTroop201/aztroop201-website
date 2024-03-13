@@ -5,9 +5,10 @@ tags:
   - annual
 description: |
     Responsible for coordinating and executing our Popcorn fundraising events
-weight: 50
+weight: 1
+#weight: 50
 draft: false
-chair: Ed Gookin
+chair:
 profile_img:
 ---
 
