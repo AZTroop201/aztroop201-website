@@ -11,7 +11,8 @@ weight: 15
 ## Troop 201 Eagles
 
 <!-- cSpell:disable -->
-
+![](/images/eagle_nest_plaque_1.png)
+![](/images/eagle_nest_plaque_2.png)
 
 | # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |       Date |
 | :------------------------------------- | :---------------------------------------------------------- | ---------: |
@@ -96,31 +97,29 @@ weight: 15
 | 79                                     | Tanner James Hunter                                         | 08/12/2010 |
 | 80                                     | Michael Bridges                                             | 10/11/2012 |
 | 81                                     | Franque D. Phillips                                         | 02/14/2013 |
-| 82                                     | Zachary Dillabough                                          | 12/01/2014 |
-| 83                                     | Ben Bauer                                                   | 02/01/2015 |
-| 84                                     | James Kovarik                                               | 02/01/2015 |
-| 85                                     | Jim White                                                   | 03/01/2015 |
-| 86                                     | Nicholas Dillabough                                         | 11/01/2015 |
-| 87                                     | Trevor W. Malley                                            | 05/11/2017 |
-| 88                                     | Branan R. Harrison                                          | 10/12/2017 |
-| 89                                     | Devin J. Hanratty                                           | 11/09/2017 |
-| 90                                     | Andrew J. Marquardt                                         | 11/09/2017 |
-| 91                                     | Daniel D. Leichty                                           | 05/10/2018 |
-| 92                                     | Rowan B. Mccullough                                         | 05/11/2018 |
-| 93                                     | Cody A. Gilbreath                                           | 06/14/2018 |
-| 94                                     | Luka K. Smolens                                             | 08/09/2018 |
-| 95                                     | Mason D. Chaney                                             | 10/10/2019 |
-| 96                                     | Mason A. Kaminski                                           | 12/12/2019 |
-| 97                                     | Charles George                                              | 06/14/2020 |
-| 98                                     | John George                                                 | 06/14/2020 |
-| 99                                     | John "JT" Malley                                            | 08/19/2021 |
-| 100                                    | Declan O'Shea                                               | 02/17/2022 |
-| 101                                    | Dakota Clark                                                | 02/17/2022 |
-| 102                                    | Eli Bump                                                    | 10/20/2022 |
-| 103                                    | Connor Bridges                                              | 03/16/2023 |
-| 104                                    | Ian Humphrey                                                | 06/20/2023 |
-| 105                                    | Max Kaminski                                                | 11/16/2023 |
-| 106                                    | Julian Bentley                                              | 02/15/2024 |
-
-![](/images/eagle_nest_plaque_1.png)
-![](/images/eagle_nest_plaque_2.png)
+| 82                                     | Kris Curtis                                                 | 11/14/2013 |
+| 83                                     | Zachary Dillabough                                          | 12/01/2014 |
+| 84                                     | Ben Bauer                                                   | 02/01/2015 |
+| 85                                     | James Kovarik                                               | 02/01/2015 |
+| 86                                     | Jim White                                                   | 03/01/2015 |
+| 87                                     | Nicholas Dillabough                                         | 11/01/2015 |
+| 88                                     | Trevor W. Malley                                            | 05/11/2017 |
+| 89                                     | Branan R. Harrison                                          | 10/12/2017 |
+| 90                                     | Devin J. Hanratty                                           | 11/09/2017 |
+| 91                                     | Andrew J. Marquardt                                         | 11/09/2017 |
+| 92                                     | Daniel D. Leichty                                           | 05/10/2018 |
+| 93                                     | Rowan B. Mccullough                                         | 05/11/2018 |
+| 94                                     | Cody A. Gilbreath                                           | 06/14/2018 |
+| 95                                     | Luka K. Smolens                                             | 08/09/2018 |
+| 96                                     | Mason D. Chaney                                             | 10/10/2019 |
+| 97                                     | Mason A. Kaminski                                           | 12/12/2019 |
+| 98                                     | Charles George                                              | 06/14/2020 |
+| 99                                     | John George                                                 | 06/14/2020 |
+| 100                                    | John "JT" Malley                                            | 08/19/2021 |
+| 101                                    | Declan O'Shea                                               | 02/17/2022 |
+| 102                                    | Dakota Clark                                                | 02/17/2022 |
+| 103                                    | Eli Bump                                                    | 10/20/2022 |
+| 104                                    | Connor Bridges                                              | 03/16/2023 |
+| 105                                    | Ian Humphrey                                                | 06/20/2023 |
+| 106                                    | Max Kaminski                                                | 11/16/2023 |
+| 107                                    | Julian Bentley                                              | 02/15/2024 |
