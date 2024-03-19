@@ -60,5 +60,8 @@
         "oshea",
         "wordart",
         "worktree"
+    ],
+    "ignoreRegExpList": [
+        "^title: .+$"
     ]
 }
