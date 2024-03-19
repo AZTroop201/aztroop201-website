@@ -1,0 +1,16 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
+    <section class="cf ph3 ph3-l pv2 pv2-l f4 tc-l center measure-wide lh-copy mid-gray">
+      {{- .Content -}}
+    </section>
+    <section class="flex-ns flex-wrap justify-around">
+      {{ range (.Paginator 1000).Pages }}
+        <div class="relative mb3 mr1 ml1 tc bg-dark-gray v-mid pa1" style="width: 340px; height: 80px; border:2px solid rgb(137, 94, 10); color:rgb(198, 149, 52)">
+            <div class="f3 lh-copy ttu b garamond nowrap v-mid">{{ .Title }} </div>
+            <div class="f4 garamond b v-mid">{{ .Date.Format "1/2/2006" }}</div>
+        </div>
+      {{ end }}
+    </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}
