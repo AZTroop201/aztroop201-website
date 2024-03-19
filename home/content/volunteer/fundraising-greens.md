@@ -7,8 +7,9 @@ description: |
     Responsible for coordinating and executing our Holiday Greens fundraiser
 weight: 50
 draft: false
-chair: Sean Bridges
+chair:
 chairs:
+  - Sean Bridges
   - Linda Waldenberger
 list_memo:
 profile_img: bridges.jpg
