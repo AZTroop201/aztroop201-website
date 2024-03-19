@@ -4,7 +4,6 @@ omit_header_text: true
 #featured_image: '/images/mainbackground.jpg'
 description:
 type: largeformat
-menu: main
 weight: 10
 ---
 
