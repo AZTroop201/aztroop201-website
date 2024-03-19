@@ -8,6 +8,8 @@ description: |
 weight: 50
 draft: false
 chair: Josh Friedman
+chairs:
+  - Alyssa Heil
 profile_img: friedman.jpg
 ---
 

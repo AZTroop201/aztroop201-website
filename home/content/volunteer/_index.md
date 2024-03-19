@@ -7,5 +7,5 @@ description: |
    all levels to ensure a successful program. The following adult leaders have
    stepped up to support our program. Please attend a committee meeting to see
    where more help is needed!
-weight: 20
+weight: 30
 ---

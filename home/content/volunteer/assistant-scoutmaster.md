@@ -6,10 +6,8 @@ tags:
 description: |
     Troop Assistant Scoutmaster
 weight: 4
-chair:
+chair: Josh Friedman
 chairs:
-  - Josh Friedman
-  - Bruce Weber
 profile_img: friedman.jpg
 ---
 
