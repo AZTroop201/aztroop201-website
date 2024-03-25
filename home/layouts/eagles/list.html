@@ -5,9 +5,19 @@
     </section>
     <section class="flex-ns flex-wrap justify-around">
       {{ range (.Paginator 1000).Pages }}
-        <div class="relative mb3 mr1 ml1 tc bg-black v-mid pa1" style="width: 340px; height: 80px; border:2px solid rgb(137, 94, 10); color:rgb(198, 149, 52)">
-            <div class="f3 lh-copy ttu b garamond nowrap v-mid">{{ .Title }} </div>
-            <div class="f4 garamond b v-mid">{{ .Date.Format "1/2/2006" }}</div>
+        <div class="relative mb3 mr1 ml1 tc bg-black v-mid pa1" style="width: 340px; height: 80px; border:2px solid rgb(137, 94, 10); ">
+            <div class="ttu nowrap v-mid f3 lh-copy b garamond" style="color:rgb(198, 149, 52)">
+              {{ if .Params.description }}
+                <a href="{{ .Permalink }}" class="" style="color:rgb(198, 149, 52)">
+                  {{ .Title }}
+                </a>
+              {{ else }}
+                {{ .Title }}
+              {{ end }}
+            </div>
+            <div class="f4 garamond b v-mid" style="color:rgb(198, 149, 52)">
+              {{ .Date.Format "1/2/2006" }}
+            </div>
         </div>
       {{ end }}
     </section>
