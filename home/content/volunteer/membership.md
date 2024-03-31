@@ -7,7 +7,7 @@ description: |
 weight: 50
 draft: false
 chair: LaDawn Bentley
-profile_img:
+profile_img: bentley.jpg
 ---
 
 ## Duties
