@@ -25,3 +25,7 @@ profile_img: bridges.jpg
 - Manage grocery fundraising programs
   - Bashas
   - Fry's
+
+## Position History
+
+- Ted Harrison 2012-2016

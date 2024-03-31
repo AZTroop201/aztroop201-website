@@ -45,6 +45,6 @@ assistant Scoutmasters in their role.
 
 ## Position History
 
-- Bob Humphrey 2019-2023
-- Mark Gilbreath 2017-2018
+- Bob Humphrey 2018-2023
+- Mark Gilbreath 2016-2018
 - Mike Dillabough 2011-2016
