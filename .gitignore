@@ -1,3 +1,4 @@
 home/public/*
 home/.hugo_build.lock
 .venv
+*.drawio.png.bkp
