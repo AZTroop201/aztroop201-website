@@ -11,31 +11,52 @@ menu: resources
 weight: 80
 ---
 
-## Troop Documents
+## 2024 Scheduled Activities
 
-All Troop 201 documents, including meeting minutes, account summary, and full
-planning calendars for the current year can be found in our Family google drive
-folder located at: [Troop Family Share](https://bit.ly/aztroop201-family). Only
-members of the active troop will be granted access. If this is your first time
-accessing, please click the link and request access by specifying the name of
-your Scout in the access request.
+Outings:
+
+1. **JAN**: Peralta Trail
+1. **FEB**: Hackberry Springs backpack
+1. **MAR**: West Fork & Devil's Bridge
+1. **APR**: Horseshoe Bend Kayak & Camp
+1. **MAY**: Family Camp
+1. **JUN**: Summer Camps: Geronimo and Emerald Bay
+1. **JUL**: Humphrey's Peak Bike & Lava Tube
+1. **AUG**: Los Burros
+1. **SEP**: Prescott Urban Adventure
+1. **OCT**: Reavis Ranch Backpack
+1. **NOV**: Toms Thumb McDowell Mountain Ranch
+1. **DEC**: Flat Iron Day Hike
+
+Fundraising:
+
+- Fiesta Bowl
+- Holiday Greens
+- BSA Popcorn
+
+Service:
+
+- Scouting for Food
+- Four Peaks Cleanup
+
+## Troop Outing History
 
 ## 2023 Activities
 
 Outings:
 
-- **JAN**: Picacho Peak
-- **FEB**: Saguaro National, Museum Visit, Camp Double V
-- **MAR**: Salt River Rafting
-- **APR**: Canyon de Chelly
-- **MAY**: Family Camp
-- **JUN**: Summer Camps: Geronimo and Emerald Bay
-- **JUL**: Los Burros Campground
-- **AUG**: Urban Adventure in Flagstaff
-- **SEP**: Aravaipa
-- **OCT**: Geronimo Shooting
-- **NOV**: Usery Pass Mountain Biking
-- **DEC**: Picket Post
+1. **JAN**: Picacho Peak
+1. **FEB**: Saguaro National, Museum Visit, Camp Double V
+1. **MAR**: Salt River Rafting
+1. **APR**: Canyon de Chelly
+1. **MAY**: Family Camp
+1. **JUN**: Summer Camps: Geronimo and Emerald Bay
+1. **JUL**: Los Burros Campground
+1. **AUG**: Urban Adventure in Flagstaff
+1. **SEP**: Aravaipa
+1. **OCT**: Geronimo Shooting
+1. **NOV**: Usery Pass Mountain Biking
+1. **DEC**: Picket Post
 
 Fundraising:
 
@@ -48,8 +69,6 @@ Service:
 - Scouting for Food
 - Four Peaks Cleanup
 - Adopt-a-family
-
-## Troop Outing History
 
 ### 2022
 
