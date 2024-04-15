@@ -13,6 +13,58 @@ weight: 80
 
 ## 2024 Scheduled Activities
 
+<style>
+
+table {
+  border-collapse: collapse;
+  width: 100%
+}
+td, th {
+  border: 1px solid #333;
+  padding: 0 .2em;
+}
+
+</style>
+## Troop Documents
+
+All Troop 201 documents, including meeting minutes, account summary, and full
+planning calendars for the current year can be found in our Family google drive
+folder located at: [Troop Family Share](https://bit.ly/aztroop201-family). Only
+members of the active troop will be granted access. If this is your first time
+accessing, please click the link and request access by specifying the name of
+your Scout in the access request.
+
+## 2024 Activities
+
+|       Outings | Description                   |
+| ------------: | :---------------------------- |
+|   **January** |                               |
+|  **February** |                               |
+|     **March** |                               |
+|     **April** | Horseshoe Bend Camp and Kayak |
+|       **May** |                               |
+|      **June** |                               |
+|      **July** |                               |
+|    **August** |                               |
+| **September** |                               |
+|   **October** |                               |
+|  **November** |                               |
+|  **December** |                               |
+
+|        Fundraising | Description |
+| -----------------: | :---------- |
+|    **Fiesta Bowl** |             |
+| **Holiday Greens** |             |
+|    **BSA Popcorn** |             |
+
+|       Service Projects | Description                                                                                     |
+| ---------------------: | :---------------------------------------------------------------------------------------------- |
+|  **Scouting for Food** | Our annual South Scottsdale Troop 201 and Pack 100 food pickup and donation to Vista del camino |
+| **Four Peaks Cleanup** |                                                                                                 |
+
+
+## 2024 Scheduled Activities
+
 Outings:
 
 1. **JAN**: Peralta Trail
