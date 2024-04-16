@@ -20,6 +20,8 @@ Run, lead and organize our yearly participation in the Fiesta Bowl parade cleanu
 ## Duties
 
 - Manage relationship with Fiesta Bowl Committee.
-- Attend regular meetings leading up to event.
 - Communicate with troop expectations and timing of events.
-- TBD.
+- Ensure equipment is ordered for position with Fiesta Bowl staff.
+- Attend pre and post parade meetings to ensure troop representation.
+- Coordinate with the Pack for horse duty.
+- Coordinate with fiesta bowl for game parties in addition to the parade.
