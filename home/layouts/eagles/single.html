@@ -1,0 +1,58 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+  {{ $section := .Site.GetPage "section" .Section }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          {{/*
+          CurrentSection allows us to use the section title instead of inferring from the folder.
+          https://gohugo.io/variables/page/#section-variables-and-methods
+          */}}
+        {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+      </aside>
+      {{ if .Params.profile_img }}
+        <img src="../profile_img/{{ .Params.profile_img }}" class="br-100 pa2 ba b--black-10 fl w-40" style="width:100px" alt="avatar">
+      {{ else }}
+        <img src="/images/fleurdelis300x300.jpg" class="br-100 pa2 ba b--black-10 fl w-40" style="width:100px" alt="avatar">
+      {{ end }}
+
+      <div class="fl pl3">
+
+        <div class="relative mb3 mr1 ml1 tc bg-black v-mid pa1" style="width: 340px; height: 80px; border:2px solid rgb(137, 94, 10); ">
+          <div class="ttu nowrap v-mid f3 lh-copy b garamond" style="color:rgb(198, 149, 52)">
+            {{ if .Params.description }}
+              <a href="{{ .Permalink }}" class="" style="color:rgb(198, 149, 52)">
+                {{ .Title }}
+              </a>
+            {{ else }}
+              {{ .Title }}
+            {{ end }}
+          </div>
+          <div class="f4 garamond b v-mid" style="color:rgb(198, 149, 52)">
+            {{ .Date.Format "1/2/2006" }}
+          </div>
+        </div>
+      </div>
+
+    </header>
+
+    <div class=".w-auto-l nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l">
+      {{- .Content -}}
+
+      <div class="mt6 instapaper_ignoref">
+      {{ if .Site.DisqusShortname }}
+        {{ template "_internal/disqus.html" . }}
+      {{ end }}
+      {{ if .Site.Params.commentoEnable }}
+        {{- partial "commento.html" . -}}
+      {{ end }}
+      </div>
+    </div>
+
+
+  </article>
+{{ end }}
