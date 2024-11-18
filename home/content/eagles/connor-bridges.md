@@ -11,7 +11,7 @@ list_memo:
 
 ## Bat Habitats
 
-Connor worked with the City of Phoenix to create four bat habitats that were placed at South Mountain.
+Connor worked with the City of Phoenix and Troop 201 to create four bat habitats that were placed at South Mountain to support and promote a bat population on site.
 
 ### Location
 
@@ -22,7 +22,7 @@ Connor worked with the City of Phoenix to create four bat habitats that were pla
 * **Date Completed**: January 30th, 2023
 * **Funds Raised**: $1999.00
 
-### Photo Album
+### Photos
 
 ![](../images/connor-bridges/20230129T145945-BridgesFamilyConnorEagleProjectBuild-me.jpg)
 ![](../images/connor-bridges/20230211T110927-ConnorEagleProjectInstallDay.jpg)
