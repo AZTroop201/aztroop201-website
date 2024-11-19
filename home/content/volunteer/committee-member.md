@@ -24,4 +24,4 @@ chairs:
 - Attend all committee meetings
 - Participate in voting
 - Assist in adhoc sub-committees
-- Help facility the goals of the youth
+- Help facilitate the monthly objectives of the scouts
