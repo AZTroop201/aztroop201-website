@@ -11,8 +11,6 @@ chairs:
   - Alyssa Heil
   - Anuj Bhatnagar
   - Bob Humphrey
-  - Collin Kerr
-  - David Schafranka
   - Dawn Bentley
   - Diana Kaminski
   - Jim Roper
