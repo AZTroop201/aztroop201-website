@@ -11,6 +11,33 @@ menu: resources
 weight: 80
 ---
 
+## 2025 Scheduled Activities
+
+Outings:
+
+1. **JAN**: Three Sisters Summit Hike
+1. **FEB**: Skiing Snowbowl
+1. **MAR**: Hackberry Backpacking
+1. **APR**: Bean Peak Mountain biking
+1. **MAY**: Family Camp
+1. **JUN**: Summer Camps (Emerald Bay/Geronimo)
+1. **JUL**: Sunrise Bike Haul
+1. **AUG**: TBD
+1. **SEP**: TBD
+1. **OCT**: TBD
+1. **NOV**: TBD
+1. **DEC**: TBD
+
+Fundraising:
+
+- Fiesta Bowl
+- Holiday Greens
+
+Service:
+
+- Scouting for Food
+- Four Peaks Cleanup
+
 ## 2024 Scheduled Activities
 
 Outings:
