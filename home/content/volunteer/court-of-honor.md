@@ -8,7 +8,7 @@ weight: 100
 draft: false
 chair: Alyssa Heil
 chairs:
-profile_img:
+profile_img: heil.jpg
 ---
 
 ## Position Description
