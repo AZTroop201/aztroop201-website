@@ -25,5 +25,7 @@ Connor worked with the City of Phoenix and Troop 201 to create four bat habitats
 ### Photos
 
 ![](../images/connor-bridges/20230129T145945-BridgesFamilyConnorEagleProjectBuild-me.jpg)
+
 ![](../images/connor-bridges/20230211T110927-ConnorEagleProjectInstallDay.jpg)
+
 ![](../images/connor-bridges/20230211T111029-BridgesFamilyConnorEagleProjectInstallDay-me.jpg)
