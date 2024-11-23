@@ -29,4 +29,4 @@ profile_img: heil.jpg
 - Diana Kaminski 2021-2024
 - Anthony Wehry 2019-2021
 - Sean Bridges 2015-2019
-- Ted Harrison 2011-2015
+- Cynthia Welt 2011-2015
