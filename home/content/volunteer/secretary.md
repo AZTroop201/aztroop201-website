@@ -7,9 +7,9 @@ description: |
     Adult leadership
 weight: 5
 draft: false
-chair: Diana Kaminski
+chair: Alyssa Rose Heil
 chairs:
-profile_img: kaminski.jpg
+profile_img: heil.jpg
 ---
 
 ## Duties
@@ -26,6 +26,7 @@ profile_img: kaminski.jpg
 
 ## Position History
 
+- Diana Kaminski 2021-2024
 - Anthony Wehry 2019-2021
 - Sean Bridges 2015-2019
 - Ted Harrison 2001-2015

@@ -6,7 +6,7 @@ description: |
   Prepare Court of Honor events.
 weight: 100
 draft: false
-chair: Alyssa Heil
+chair: Alyssa Rose Heil
 chairs:
 profile_img: heil.jpg
 ---
