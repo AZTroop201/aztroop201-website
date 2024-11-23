@@ -10,7 +10,8 @@ weight: 100
 draft: false
 chairs:
   - Keri Cavanaugh
-profile_img:
+profile_img: cavanaugh.jpg
+
 ---
 
 ## Duties
